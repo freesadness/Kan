@@ -1,0 +1,59 @@
+[
+    {
+      "question": "What takes place in Hong Kong's Happy Valley?",
+      "right_option": "Horse racing",
+      "wrong_option_1": "Horse flying",
+      "wrong_option_2": "Horse eating",
+      "wrong_option_3": "horse jumping"
+    },
+    {
+      "question": "Which reptile, according to the song, should you never smile at?",
+      "right_option": "Crocodile",
+      "wrong_option_1": "Chameleon",
+      "wrong_option_2": "Turtle",
+      "wrong_option_3": "Snake"
+    },
+    {
+      "question": "Which Saint’s Day is celebrated on 14th February?",
+      "right_option": "Saint Valentine",
+      "wrong_option_1": "Christmas",
+      "wrong_option_2": "New Year",
+      "wrong_option_3": "Saint Holiday"
+    },
+    {
+      "question": "In which ocean did the famous Titanic sink in 1912?",
+      "right_option": "North Atlantic Ocean",
+      "wrong_option_1": "pacific Ocean",
+      "wrong_option_2": "Ocean Habitat",
+      "wrong_option_3": "Mediterranean"
+    },
+    {
+      "question": "Which two parts of the body continue to grow for your entire life?",
+      "right_option": "Nose and ears",
+      "wrong_option_1": "Head and hand",
+      "wrong_option_2": "Mouth and eyes",
+      "wrong_option_3": "Heart and soul"
+    },
+    {
+      "question": "What has 13 hearts but no organs?",
+      "right_option": "A deck of cards",
+      "wrong_option_1": "A demon from hell",
+      "wrong_option_2": "A monster",
+      "wrong_option_3": "An angel from heaven"
+    },
+    {
+      "question": "I can bring a smile to your face, a tear to your eye, or even a thought to your mind. But, I can’t be seen. What am I?",
+      "right_option": "A Memory",
+      "wrong_option": "A gust of wind",
+      "wrong_option_2": "A smile",
+      "wrong_option_3": "A glance"
+    },
+    {
+      "question": "I can be made and I can be played. I can be cracked and I can be told. What am I?",
+      "right_option": "A joke",
+      "wrong_option_1": "A game",
+      "wrong_option_2": "A story",
+      "wrong_option_3": "A portrait"
+    }
+  ]
+  
