@@ -44,7 +44,7 @@
     {
       "question": "I can bring a smile to your face, a tear to your eye, or even a thought to your mind. But, I can’t be seen. What am I?",
       "right_option": "A Memory",
-      "wrong_option": "A gust of wind",
+      "wrong_option_1": "A gust of wind",
       "wrong_option_2": "A smile",
       "wrong_option_3": "A glance"
     },
